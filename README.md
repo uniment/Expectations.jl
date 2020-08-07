@@ -80,3 +80,5 @@ The `MixtureExpectation` objects support most of the same behavior as the indivi
 weights(E) # [1/3, 1/3, 1/3]
 expectations(E) # component expectations
 ```
+
+Fin.
